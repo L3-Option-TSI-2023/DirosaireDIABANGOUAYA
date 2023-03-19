@@ -9,5 +9,5 @@ Ce sont des mémoires qui perdent leur contenu sans alimentation. Il en existe d
 
 Les SRAM sont les plus rapides 
 
-[x] les plus rapides
-[ ] les moins rapides
+- [x] les plus rapides
+- [ ] les moins rapides
