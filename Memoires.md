@@ -33,5 +33,15 @@ Les différences entre ces deux types de mémoires vives sont résumés dans le 
 | Prix                         |     2500 euros/Gb             |         250 euros/Gb             |
 
 
-### Les mémoires mortes ou ROM (Read Only Memory)
+### Les mémoires mortes 
+Ces mémoires ont la particularité de pouvoir conserver leur contenu qu'elles sont alimentés ou non.
+On en distingue 4 principaux types :
+- ROM (Read Only Memory) : écrite à la fabrication et que l'on ne peut pas effacer
+- PROM (Programmable ROM) : on écrit une seule fois et que l'on ne peut pas effacer
+- EPROM (Erasable EPROM) : on peut écrire et on peut l'effacer qu'en la passant sous rayonnement UV
+- EEPROM (Electrical EPROM) : mémoire dans laquelle on peut écrire et que l'on peut éffacer électriquement. C'est le cas des USB, et disques durs, etc.
+
+|                              |     ROM                      |    PROM           |  EPROM                  | EEPROM                  |
+| :--------------------------- | :--------------------------: | :----------------:|:-----------------------:|:-----------------------:|
+| Technologie de stockage      | Programmée à la fabrication  |   un fusible      | MOS à grille flottante  | MOS à grille flottante  |
 
