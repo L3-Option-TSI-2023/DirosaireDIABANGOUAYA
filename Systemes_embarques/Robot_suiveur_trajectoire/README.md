@@ -19,3 +19,8 @@ Ce projet Arduino permet de contrôler un robot à deux roues à l'aide d'un pot
 - LEDs pour les clignotants et les LED de ralentissement
 - Moteurs à courant continu pour les roues du robot
 - Pilotes de moteur pour contrôler les moteurs
+
+## Résultats obtenus
+
+
+![Robot_suiveur](https://github.com/L3-Option-TSI-2023/DirosaireDIABANGOUAYA/assets/127400195/a2e14935-52ae-4097-9a4f-3703167bcfeb)
