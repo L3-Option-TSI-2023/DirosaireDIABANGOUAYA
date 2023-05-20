@@ -19,3 +19,7 @@ Ce projet Arduino permet de contrôler un robot à deux roues à l'aide d'un pot
 - LEDs pour les clignotants et les LED de ralentissement
 - Moteurs à courant continu pour les roues du robot
 - Pilotes de moteur pour contrôler les moteurs
+
+## Résultats obtenus
+
+![Alt text](image Téléchargements/1.png)
