@@ -1,47 +1,15 @@
-# TOUT SUR LES MEMOIRES 
+# README
 
-On appelle mémoire tout dispositif permettant de stocker des informations.
-De façon générale, une mémoire est constituée :
-- Un **Bus d'adresses** (n)
-- Un **Bus de données** (m)
-- Et deux **broches**, une pour l'écriture et la lecture et une autre broche pour la selection.
+## Dossier d'exercices du semestre sur le C++ et le traitement d'images
 
-Il existe de nombreux types ou fromats de mémoires qui se distinguent chacune par leurs caractéristiques :
-- la technologie (ROM, RAM, Flash, FIFO, etc)
-- l'organisation interne : le nombre de cases mémoires N=2^n avec n le nombre de bits d'adresses (n), et le nombre des données 
-- la capacité C=mx2^n
-- le temps d'accès en ns
+Ce dossier contient tous les exercices réalisés pendant le semestre dans le cadre des cours de C++ et de traitement d'images. Nous avions quasiment à chaque séance de cours une série d'exercices à rendre à une date précise. Et l'enseignant en corrigeait aléatoirement pour constitier 40% de la note de l'UE. Les 60% autre comptant pour les examens sur table.
 
-On dsitingue 2 grands types de mémoires : les vives et les mortes.
+### Organisation du dossier
 
-### Les mémoires vives ou RAM (Random Access Memory)
+Le dossier est organisé de la manière suivante :
 
-Ce sont des mémoires qui perdent leur contenu sans alimentation. Il en existe deux types 
-- Les SRAM pour RAM Statique
-- et les DRAM pour RAM dynamique 
+- `Année_Mois_Jour/` : Ces répertoires contienent tous les exercices réalisés dans le cadre du cours de C++ et du traitement d'images. Chaque série exercices est placé dans un sous-dossier distinct, avec les fichiers source correspondants.
 
-Les différences entre ces deux types de mémoires vives sont résumés dans le tableau suivant :
+### Utilisation
 
-|                              |     SRAM                      |    DRAM                          |
-| :--------------------------- | :---------------------------: | :-------------------------------:|
-| Technologie de stockage      |     Latch                     |   1e capacité                    |
-| Raffraichissement            |   Non                         |      Oui                         |
-| Vitesse                      |     plutot élevé (qq ns)      |    plutot lente (diz de ns)      |
-| Densité(bit/mm^2)            |     moins dense que le DRAM   |         la plus élevée           |
-| Capacité                     |     faible (qq Mo)            |         élevée  (qq Go)          |
-| Consommation                 |Proportionnelle à la fréquence |         élevée car refresh       |
-| Prix                         |     2500 euros/Gb             |         250 euros/Gb             |
-
-
-### Les mémoires mortes 
-Ces mémoires ont la particularité de pouvoir conserver leur contenu qu'elles sont alimentés ou non.
-On en distingue 4 principaux types :
-- ROM (Read Only Memory) : écrite à la fabrication et que l'on ne peut pas effacer
-- PROM (Programmable ROM) : on écrit une seule fois et que l'on ne peut pas effacer
-- EPROM (Erasable EPROM) : on peut écrire et on peut l'effacer qu'en la passant sous rayonnement UV
-- EEPROM (Electrical EPROM) : mémoire dans laquelle on peut écrire et que l'on peut éffacer électriquement. C'est le cas des USB, et disques durs, etc.
-
-|                              |     ROM                      |    PROM           |  EPROM                  | EEPROM                  |
-| :--------------------------- | :--------------------------: | :----------------:|:-----------------------:|:-----------------------:|
-| Technologie de stockage      | Programmée à la fabrication  |   un fusible      | MOS à grille flottante  | MOS à grille flottante  |
-
+Pour accéder aux exercices, naviguez simplement dans les dossiers `Année_Mois_Jour/`. Chaque exercice est accompagné de fichiers source qui peuvent être ouverts et étudiés dans un environnement de développement compatible avec le langage C++ et le traitement d'images.
