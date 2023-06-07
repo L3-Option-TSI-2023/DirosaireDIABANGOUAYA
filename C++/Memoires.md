@@ -13,3 +13,4 @@ Le dossier est organisé de la manière suivante :
 ### Utilisation
 
 Pour accéder aux exercices, naviguez simplement dans les dossiers `Année_Mois_Jour/`. Chaque exercice est accompagné de fichiers source qui peuvent être ouverts et étudiés dans un environnement de développement compatible avec le langage C++ et le traitement d'images.
+Pour accéder aux exercices, naviguez simplement dans les dossiers `Année_Mois_Jour/`. Chaque exercice est accompagné de fichiers source qui peuvent être ouverts et étudiés dans un environnement de développement compatible avec le langage C++ et le traitement d'images.
