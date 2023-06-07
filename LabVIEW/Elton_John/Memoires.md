@@ -16,9 +16,9 @@ En plus des fonctionnalités principales, l'application Elton John offrait égal
 
 Pour utiliser l'application Elton John, suivez les étapes suivantes :
 
-1. Assurez-vous d'avoir correctement installé le logiciel NI LabVIEW
+1. Assurez-vous d'avoir correctement installé le logiciel `NI LabVIEW`.
 
-2. Lancez l'application et accédez à l'interface utilisateur en cliquant sur le fichier Main-VI.
+2. Lancez l'application et accédez à l'interface utilisateur en cliquant sur le fichier `Main VI`.
 
 3. Connectez-vous en utilisant les identifiants personnels `Jerome et BRUNET`. 
 
